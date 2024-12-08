@@ -1,11 +1,9 @@
 # Blog Club 
 
-A new Flutter project.
 
-## Getting Started
 
 <p>
-<img src="https://dribbble.com/shots/15039580-BLOG-CLUB-Blog-UI-kit-Freebie/attachments/6764653?mode=media"  />
+<img src="https://raw.githubusercontent.com/mahdihagigat/Blog-Club/refs/heads/main/blog-club-free-ui-kit-for-figma.webp?token=GHSAT0AAAAAAC3QBQF5A7WSZILPJGWL44BKZ2V4K4A"  />
 </p>
 
 
